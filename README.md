@@ -1,5 +1,5 @@
 # SideProjects
-Repository for Women in Computer Science (WiCS) Side Projects project
+Repository for Women in Computer Science (WiCS) Side Projects project by Dagmawit and Natalie
 
 Our ideas:
 
