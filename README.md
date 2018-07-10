@@ -3,6 +3,7 @@
 
 to-do:
 
+-research ideas -> look into environmental projects
 -decide on idea
 -go through design ideas
 -create mockups
@@ -17,4 +18,5 @@ Our ideas:
 * eating disorder treatment finder
 * scheduling app
 * Medical Decision-Making Statistics tool (https://docs.google.com/document/d/1-Gc35HBImxg9Lyu8VDytgG-tUABU19yzfbu9HkNHt1Q/edit)
-* 
+* simple app that takes restaurant utensil buyers to buy environmentally friendly options and see how much they help the environment
+
