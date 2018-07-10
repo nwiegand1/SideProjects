@@ -5,8 +5,9 @@ to-do:
 
 -decide on idea
 -go through design ideas
--create
--write about it!
+-create mockups
+-implement design as a webapp
+-write about it! (documentation, blog post/twitter post?)
 
 
 Repository for Women in Computer Science (WiCS) Side Projects project by Dagmawit and Natalie
