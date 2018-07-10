@@ -4,10 +4,15 @@
 to-do:
 
 *research ideas -> look into environmental projects
+
 *decide on idea
+
 *go through design ideas
+
 *create mockups
+
 *implement design as a webapp
+
 *write about it! (documentation, blog post/twitter post?)
 
 
